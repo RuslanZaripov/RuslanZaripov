@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **RuslanZaripov/RuslanZaripov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,29 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hi there 👋 My name is Ruslan
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/zarus03)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rzaripov003/)
+
+## About me
+
+- ML researcher with 1+ years in CV/NLP research.
+- Bachelor's in Applied Math & CS (ITMO); currently pursuing a Master's in Deep Learning & Generative AI (ITMO).
+- Researcher at ITMO's AI Lab with 1+ ML/DL projects.
+- Seeking collaboration with R&D teams, startups, labs, and universities.
+
+## Skills
+
+- `Programming languages`: Python, C++, Java, Kotlin, Rust, SQL, LaTex.
+- `Tools and libs`: PyTorch, Numpy, Pandas, Scikit-learn, CatBoost, OpenCV, NLTK, Hugging Face, Beautiful Soup, Celery, FastAPI.
+- `Big Data`: Spark, Kafka, PostgreSQL, Redis, Cassandra, ClickHouse.
+- `DevOps`: Jenkins, Docker, Kubernetes, Git, Ansible, DVC.
+
+## GitHub stats
+
+<div display="inline-flex" align-items="center" justify-content="space-between">
+<img class="output" src="https://github-readme-stats.vercel.app/api?username=RuslanZaripov&amp;theme=vue-dark&amp;show_icons=true&amp;hide_border=true&amp;count_private=true" alt="github stats">
+<img class="output" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuslanZaripov&amp;theme=vue-dark&amp;show_icons=true&amp;hide_border=true&amp;layout=compact" alt="github top languages">
+</div>
