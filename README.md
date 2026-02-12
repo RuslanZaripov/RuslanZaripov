@@ -32,9 +32,9 @@ Here are some ideas to get you started:
 - `Big Data`: Spark, Kafka, PostgreSQL, Redis, Cassandra, ClickHouse.
 - `DevOps`: Jenkins, Docker, Kubernetes, Git, Ansible, DVC.
 
-## GitHub stats
+<!-- ## GitHub stats
 
 <div display="inline-flex" align-items="center" justify-content="space-between">
 <img class="output" src="https://github-readme-stats.vercel.app/api?username=RuslanZaripov&amp;theme=vue-dark&amp;show_icons=true&amp;hide_border=true&amp;count_private=true" alt="github stats">
 <img class="output" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuslanZaripov&amp;theme=vue-dark&amp;show_icons=true&amp;hide_border=true&amp;layout=compact" alt="github top languages">
-</div>
+</div> -->
