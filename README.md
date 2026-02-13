@@ -29,9 +29,9 @@ Here are some ideas to get you started:
 ## Skills
 
 - `Programming languages`: Python, C++, Java, Kotlin, Rust, SQL, LaTeX.
-- `Basic ML`: PyTorch, Numpy, Pandas, Scikit-learn, CatBoost.
-- `Natural Language Processing`: Transformers, Tokenizers, NLTK, fastText.
-- `Computer Vision`: timm, scikit-image, OpenCV, ultralytics, detectron2, mmcv.
+- `Basic ML`: PyTorch, Numpy, Pandas, Scikit-learn, CatBoost, Optuna.
+- `Natural Language Processing`: Transformers, Tokenizers, NLTK, FastText, SpaCy, LangChain.
+- `Computer Vision`: timm, scikit-image, OpenCV, Ultralytics, Detectron2, MMCV.
 - `Generative AI`: Diffusers, DiffSynth-Studio.
 - `Big Data`: Spark, Kafka, PostgreSQL, Redis, Cassandra, ClickHouse.
 - `DevOps`: Jenkins, Docker, Kubernetes, Git, Ansible, DVC.
