@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 - `Big Data`: Spark, Kafka, PostgreSQL, Redis, Cassandra, ClickHouse.
 - `DevOps`: Jenkins, Docker, Kubernetes, Git, Ansible, DVC.
 - `Backend & APIs`: Celery, FastAPI.
+- `Data Annotation`: CVAT, Label Studio.
 
 <!-- ## GitHub stats
 
