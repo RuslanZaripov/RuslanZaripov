@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 ## About me
 
 - ML researcher with 1+ years in CV/NLP research.
-- Bachelor's in Applied Math & CS (ITMO); currently pursuing a Master's in Deep Learning & Generative AI (ITMO).
+- Bachelor's in Applied Math & CS (ITMO).
+- Currently pursuing a Master's in Deep Learning & Generative AI (ITMO).
 - Researcher at ITMO's AI Lab with 2+ ML/DL projects.
 - Seeking collaboration with R&D teams, startups, labs, and universities.
 
