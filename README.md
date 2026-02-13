@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 - `Basic ML`: PyTorch, Numpy, Pandas, Scikit-learn, CatBoost.
 - `Natural Language Processing`: Transformers, Tokenizers, NLTK, fastText.
 - `Computer Vision`: timm, scikit-image, OpenCV, ultralytics, detectron2, mmcv.
+- `Generative AI`: Diffusers, DiffSynth-Studio.
 - `Big Data`: Spark, Kafka, PostgreSQL, Redis, Cassandra, ClickHouse.
 - `DevOps`: Jenkins, Docker, Kubernetes, Git, Ansible, DVC.
 - `Backend & APIs`: Celery, FastAPI.
