@@ -22,15 +22,18 @@ Here are some ideas to get you started:
 
 - ML researcher with 1+ years in CV/NLP research.
 - Bachelor's in Applied Math & CS (ITMO); currently pursuing a Master's in Deep Learning & Generative AI (ITMO).
-- Researcher at ITMO's AI Lab with 1+ ML/DL projects.
+- Researcher at ITMO's AI Lab with 2+ ML/DL projects.
 - Seeking collaboration with R&D teams, startups, labs, and universities.
 
 ## Skills
 
-- `Programming languages`: Python, C++, Java, Kotlin, Rust, SQL, LaTex.
-- `Tools and libs`: PyTorch, Numpy, Pandas, Scikit-learn, CatBoost, OpenCV, NLTK, Hugging Face, Beautiful Soup, Celery, FastAPI.
+- `Programming languages`: Python, C++, Java, Kotlin, Rust, SQL, LaTeX.
+- `Basic ML`: PyTorch, Numpy, Pandas, Scikit-learn, CatBoost.
+- `Natural Language Processing`: Transformers, Tokenizers, NLTK, fastText.
+- `Computer Vision`: timm, scikit-image, OpenCV, ultralytics, detectron2, mmcv.
 - `Big Data`: Spark, Kafka, PostgreSQL, Redis, Cassandra, ClickHouse.
 - `DevOps`: Jenkins, Docker, Kubernetes, Git, Ansible, DVC.
+- `Backend & APIs`: Celery, FastAPI.
 
 <!-- ## GitHub stats
 
